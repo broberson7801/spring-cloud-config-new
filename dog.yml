@@ -1,1 +1,4 @@
-dog: bark
+dog:
+  color: brown
+  noise: bark
+  tail: short
